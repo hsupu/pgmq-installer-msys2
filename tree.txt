@@ -1,0 +1,60 @@
+E:\MISC\PGMQ-INSTALLER-MSYS2
+│   .gitignore
+│   build.ps1
+│   build.sh
+│   msys64.cmd
+│   README.md
+│   tree.txt
+│
+├───etc
+│       bash.bashrc
+│       msystem
+│       profile
+│       shells
+│
+├───pgmq-extension-1.5.1
+│   │   Makefile
+│   │
+│   └───sql
+│           pgmq--xxx--xxx.sql
+│           pgmq--1.5.1.sql
+│           pgmq.sql
+│
+├───tmp
+│       .gitkeep
+│
+├───usr
+│   └───bin
+│           awk.exe
+│           basename.exe
+│           bash.exe
+│           chmod.exe
+│           cp.exe
+│           cygpath.exe
+│           dirname.exe
+│           env.exe
+│           find.exe
+│           grep.exe
+│           head.exe
+│           hostname.exe
+│           make.exe
+│           mkdir.exe
+│           msys-2.0.dll
+│           msys-gcc_s-seh-1.dll
+│           msys-gmp-10.dll
+│           msys-iconv-2.dll
+│           msys-intl-8.dll
+│           msys-mpfr-6.dll
+│           msys-ncursesw6.dll
+│           msys-pcre-1.dll
+│           msys-readline8.dll
+│           mv.exe
+│           pwd.exe
+│           rm.exe
+│           sed.exe
+│           sh.exe
+│           sort.exe
+│           test.exe
+│           uname.exe
+│           which.exe
+│
